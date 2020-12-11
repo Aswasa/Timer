@@ -1,3 +1,6 @@
+// By Anthony Lipin
+//This code is under MIT licence, you can find the complete file here: www.mylicencefile.com
+
 #include <iomanip> 
 #include <iostream> 
 #include <stdlib.h> 
